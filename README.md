@@ -1,2 +1,2 @@
 # Papillon-plugins
-A librairy of plugins for the Papillon app
+A library of plugins for the Papillon app
