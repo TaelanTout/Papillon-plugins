@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2023-11-29T18:00:00Z",
+  "plugins": [
+    {
+      "id": "com.papillon.enhanced-tasks",
+      "name": "Enhanced Tasks",
+      "version": "2.0.0",
+      "description": "Tâches et rappels améliorés avec récurrence",
+      "author": "Taëlan TOUT",
+      "repositoryUrl": "https://raw.githubusercontent.com/TaelanTout/Papillon-plugins/main/plugins/com.papillon.enhanced-tasks/index.ts",
+      "icon": "checkmark-circle",
+      "category": "productivity",
+      "tags": ["tasks", "todo", "productivity"],
+      "minAppVersion": "1.0.0"
+    }
+  ]
+}
